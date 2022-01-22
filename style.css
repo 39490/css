@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: cyan;
+    color: blue;
+}
+
+header a {
+    border-radius: black;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    color: lightsalmon;
+    font-size: 50px;
+
+}
+
+footer p{
+    background-color: rgba(20, 199, 20, 0.884);
+}
+
+nav a {
+    border-radius:5px ;
+    margin: 15px;
+    font-size: 18px;
+    color:white;
+    background-color: rgb(9, 9, 105);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ .icon {
+    border:3px solid blue;
+}
+ main h2{
+     color: blue;
+}
+
+main {
+    padding: 5px;
+}
